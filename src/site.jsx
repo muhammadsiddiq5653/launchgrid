@@ -3,7 +3,7 @@ import * as React from 'react';
 // ── Booking link ─────────────────────────────────────────────────────────────
 // Replace with your Calendly / Cal.com link before deploying.
 // Every "Book a discovery call" button on the site uses this one constant.
-export const CALENDLY_URL = 'https://calendly.com/YOUR_USERNAME/discovery-call';
+export const CALENDLY_URL = 'https://calendly.com/hello-launchgrid';
 
 export const LINKEDIN_URL = 'https://www.linkedin.com/company/108582258/';
 export const EMAIL = 'hello.launchgridhq@gmail.com';
